@@ -1,0 +1,10 @@
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (1, 'To Kill a Mockingbird', 'Harper Lee', 'A gripping novel about racial injustice.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (2, 'Pride and Prejudice', 'Jane Austen', 'A classic romance novel.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (3, 'The Great Gatsby', 'F. Scott Fitzgerald', 'A story of the American dream gone wrong.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (4, 'Moby Dick', 'Herman Melville', 'A thrilling adventure of the whaling industry.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (5, 'The Catcher in the Rye', 'J.D. Salinger', 'A novel about teenage rebellion.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (6, 'The Hobbit', 'J.R.R. Tolkien', 'A fantasy adventure of a reluctant hero.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (7, 'Crime and Punishment', 'Fyodor Dostoevsky', 'A psychological drama about guilt and redemption.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (8, 'The Odyssey', 'Homer', 'An ancient epic of a hero''s journey home.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (9, 'The Adventures of Sherlock Holmes', 'Arthur Conan Doyle', 'Mysteries solved by the famous detective.');
+INSERT INTO BOOK (ID, NAME, AUTHOR, DESCRIPTION) VALUES (10, 'Harry Potter and the Philosopher''s Stone', 'J.K. Rowling', 'The beginning of a young wizard''s journey.');
