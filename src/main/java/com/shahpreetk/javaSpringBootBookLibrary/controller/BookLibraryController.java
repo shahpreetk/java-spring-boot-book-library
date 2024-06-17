@@ -22,6 +22,11 @@ public class BookLibraryController {
         return bookLibraryService.getAllBooks();
     }
 
+    @GetMapping(value = "/{id}", produces = {MediaType.APPLICATION_JSON_VALUE})
+    public Book getBookById(@PathVariable int id) {
+        return bookLibraryService.getBookById(id);
+    }
+
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public Book addBook(@RequestBody Book book) {
